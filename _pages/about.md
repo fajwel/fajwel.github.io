@@ -2,24 +2,25 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Researcher at <a href="https://www.di.ens.fr/sierra">ENS Paris</a> & <a href='https://www.lsce.ipsl.fr/'>LSCE</a>.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+# <p>555 your office number</p>
+# <p>123 your address street</p>
+# <p>Your City, State 12345</p>
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+My name is Fajwel (pronounce "fayvel"). I am currently a postdoctoral researcher at [ENS Paris](https://www.di.ens.fr/) and [LSCE](https://www.lsce.ipsl.fr/), working with the group of [Philippe Ciais](https://www.lsce.ipsl.fr/Phocea/Pisp/index.php?nom=philippe.ciais).
+My current research focuses on the estimation of forest attributes and their temporal evolution at a very high resolution (less than 2 meters) and at scale (country or greater), using remote sensing data and AI. I am also very curious about other applications of AI for environmental sciences.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+From 2016 till 2023 I have worked in several AI startups. In 2016 I served as Chief Data Scientist at [Kayrros](https://www.kayrros.com/), a startup that delivers insights on energy markets using satellite imagery and AI. Subsequently, from 2017 till 2023 I was the Chief Science Officer and co-founder of [Sancare](https://www.sancare.fr/), a startup that automates the processing of hospitals' medical health reports with AI to streamine administrative tasks and retrieve information for real world evidence studies.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I hold an engineering degree from [ENSAE](https://www.ensae.fr/en), a Master of Science from [Columbia University](https://www.columbia.edu/), and a PhD in applied mathematics from [Ecole Polytechnique Paris](https://www.ip-paris.fr/education/doctorat/ecole-doctorale-ip-paris) (advisors [Alexandre d'Aspremont](https://www.di.ens.fr/~aspremon/) and [Francis Bach](https://www.di.ens.fr/~fbach/)).
